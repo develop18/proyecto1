@@ -1,4 +1,5 @@
 modificar
-he borrado la linea de arriba
+he eliminado la linea de arriba
 tercera linea agregada
 
+agregada cuarta linea
