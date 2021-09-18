@@ -1,0 +1,6 @@
+Este es un fichero creado por L sólo para probar el trabajo colaborativo.
+Los pasos para que alguien (A) pueda aportar al repositorio remoto de otra persona (B):
+1) Desde el repositorio de A hacer un fork del repositorio de B
+2) Realizar la deseada modificación, ya sea desde la propia consola de Github o clonando el nuevo repositorio hacia el cliente Gitbash y realizando todos los cambios desde allí.
+3) Generar un commit
+4) Solicitar una Pull Reques (PR)
