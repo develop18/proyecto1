@@ -1,0 +1,15 @@
+1) Crea un nuevo paquete para la empresa com.Informative
+2) Dentro del paquete crea 3 clases:
+	a) Una clase que contiene el método principal de este proyecto. Inicialmente el bloque de este método estará definido pero lo dejamos por ahora vacío
+	b) Una clase que se encargará de datos meteorológicos. Dentro de ella 2 métodos:
+		- Imprime la temperatura actual
+		- Imprime la humedad actual
+	c) Una clase que se dedica a informar en qué lugar vivimos. Sus métodos:
+		- Imprimir el nombre de la ciudad
+		- Imprimir el código postal
+		- Imprimir el país
+3) En la clase principal, imprime en este orden:
+	a) País
+	b) Ciudad
+	c) Temperatura
+	d) Humedad
